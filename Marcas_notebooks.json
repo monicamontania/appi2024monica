@@ -1,0 +1,49 @@
+{
+  "notebooks_por_regiao": {
+    "norte": [
+      {
+        "Acer": 300,
+        "Dell": 450,
+        "Lenovo": 200,
+        "Samsung": 180,
+        "HP": 150
+      }
+    ],
+    "nordeste": [
+      {
+        "Acer": 350,
+        "Dell": 400,
+        "Lenovo": 250,
+        "Samsung": 160,
+        "HP": 140
+      }
+    ],
+    "sudeste": [
+      {
+        "Apple": 800,
+        "Dell": 900,
+        "Lenovo": 600,
+        "Acer": 550,
+        "Samsung": 500
+      }
+    ],
+    "sul": [
+      {
+        "marca": "Dell", "votos": 450,
+        "marca": "Acer", "votos": 400,
+        "marca": "Lenovo", "votos": 300,
+        "marca": "Apple", "votos": 350,
+        "marca": "Asus", "votos": 200
+      }
+    ],
+    "centro_oeste": [
+      {
+        "marca": "Dell", "votos": 400,
+        "marca": "Acer", "votos": 350,
+        "marca": "Lenovo", "votos": 250,
+        "marca": "Samsung", "votos": 180,
+        "marca": "HP", "votos": 220
+      }
+    ]
+  }
+}
